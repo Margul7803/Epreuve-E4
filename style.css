@@ -106,7 +106,7 @@ span{
 }
 
 .swiper {
-  width: 600px;
+  width: 70%;
   height: 100%;
 }
 
@@ -145,4 +145,16 @@ span{
 .project-swipper{
   margin-bottom: 25px;
   margin-top: 80px;
+}
+
+.tech{
+  margin-bottom: 100px;
+}
+
+.tech-text p{
+  margin-bottom: 25px;
+}
+
+.tech-text a{
+  color: var(--second-color);
 }
